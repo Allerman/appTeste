@@ -20,7 +20,7 @@ export default function BottomTabNavigator() {
         name="Skills"
         component={SkillsScreen}
         options={{
-          tabBarLabel: 'Habilidades',
+          tabBarLabel: 'Projetos',
         }}
       />
     </Tab.Navigator>
